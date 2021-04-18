@@ -1,0 +1,6 @@
+The project named “Brainy ChatBOT”, is a machine learning based model created in Python using Machine learning Algorithms.
+The purpose of the project is to provide a model that can predict the diseases of a patient on the basis of his/her symptoms and provide the concerned doctor’s link to contact.
+In this project patient can open the model and just input yes for regarding symptoms that he/she have and then the model will predict diseases.
+We have used csv data files for this project so when new diseases will come we can easily enhance our data and doctors also can add their data in the doctor’s dataset.
+This chat-bot model can reduce the time which taken when we don’t know about our diseases that we have and the time to search the doctor and as we know medical field is in growing phase
+so today by this model patient can identify some of their disease and directly contact to the doctors.
